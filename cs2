@@ -1,0 +1,1 @@
+gamescope -W 1920 -H 1080 -w 1584 -h 1080 -r 500 -S stretch -f --immediate-flips --force-grab-cursor -- %command%
